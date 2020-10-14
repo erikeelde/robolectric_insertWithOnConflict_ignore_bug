@@ -1,0 +1,2 @@
+rootProject.name = "Roboelectric insertWithOnConflict"
+include ':app'
