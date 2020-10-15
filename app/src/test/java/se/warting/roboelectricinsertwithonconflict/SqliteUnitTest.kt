@@ -11,7 +11,7 @@ import org.robolectric.RobolectricTestRunner
 import org.robolectric.annotation.Config
 
 @RunWith(RobolectricTestRunner::class)
-@Config(minSdk = 16, maxSdk = 28)
+@Config(minSdk = 16, maxSdk = 25)
 class SqliteUnitTest {
 
     @Test
